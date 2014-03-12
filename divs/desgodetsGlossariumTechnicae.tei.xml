@@ -322,6 +322,7 @@
                <sense>
                   <def />
                </sense>
+               <!--RC n'existe pas et renvoie à garde-corps -->
             </entry>
             <entry xml:id="acrotere">
                <form>
@@ -330,7 +331,7 @@
                <sense>
                   <def>
                      <cit>
-                        <quote><ref target="#amortissement">Amortissement</ref> élancé de plan carré ou polygonal terminé en pyramide ou en cône effilé.</quote>
+                        <quote><ref target="#amortissement">Amortissement</ref> placé à la naissance et au faîte des rampants d'un <ref target="#fronton">Fronton</ref> ou d'un <ref target="#pignon">Pignon</ref>, généralement formé d'un <ref target="#socle">Socle</ref> et d'un motif ornemental.</quote>
                         <bibl corresp="#perouseDeMonclos1995">177</bibl>
                      </cit>
                   </def>
@@ -678,6 +679,7 @@
                         <quote>Corps de moulures séparant le chapiteau du fût d'une colonne ou du corps d'un pilastre : c'est généralement une baguette.</quote>
                         <bibl corresp="#pdm">114</bibl>
                      </cit>
+                     <!--  -->
                   </def>
                </sense>
             </entry>
@@ -3569,6 +3571,19 @@
                </form>
                <sense>
                   <def />
+               </sense>
+            </entry>
+            <entry xml:id="gardeCorp">
+               <form>
+                  <orth>garde-corps</orth>
+               </form>
+               <sense>
+                  <def >
+                     <cit >
+                        <quote>ouvrage à hauteur d'appui formant protection devant un vide.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">84</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="geometrie">
