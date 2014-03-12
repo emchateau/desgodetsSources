@@ -673,7 +673,12 @@
                   <orth>astragale</orth>
                </form>
                <sense>
-                  <def>eee</def>
+                  <def>
+                     <cit>
+                        <quote>Corps de moulures séparant le chapiteau du fût d'une colonne ou du corps d'un pilastre : c'est généralement une baguette.</quote>
+                        <bibl corresp="#pdm">114</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="atticurge">
