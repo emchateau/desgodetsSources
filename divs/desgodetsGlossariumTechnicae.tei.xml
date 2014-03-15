@@ -331,7 +331,7 @@
                <sense>
                   <def>
                      <cit>
-                        <quote><ref target="#amortissement">Amortissement</ref> placé à la naissance et au faîte des rampants d'un <ref target="#fronton">Fronton</ref> ou d'un <ref target="#pignon">Pignon</ref>, généralement formé d'un <ref target="#socle">Socle</ref> et d'un motif ornemental.</quote>
+                        <quote><ref target="#amortissement">Amortissement</ref> placé à la naissance et au faîte des rampants d'un <ref target="#fronton">fronton</ref> ou d'un <ref target="#pignon">pignon</ref>, généralement formé d'un <ref target="#socle">socle</ref> et d'un motif ornemental.</quote>
                         <bibl corresp="#perouseDeMonclos1995">177</bibl>
                      </cit>
                   </def>
@@ -342,7 +342,12 @@
                   <orth>agrafe</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote><ref target="#clef">clef</ref> en <ref target="#bossage">bossage</ref> mouluré qui semble agrafer les moulures du <ref target="#front">front</ref> de l'<ref target="#arc">arc</ref> ou de la <ref target="#plateBande">plateBande</ref>. Ne pas confondre cette agrafe décorative avec les agrafes reliant les <ref target="#claveau">clavaux</ref></quote>
+                        <bibl> corresp="#perouseDeMonclos1995">149</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="aire">
@@ -350,7 +355,12 @@
                   <orth>aire</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Toute surface plane servant de sol ou recevant un <ref target="#parquet">parquet</ref>, un pavement</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">82</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="alette">
@@ -358,16 +368,28 @@
                   <orth>alette</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote><ref target="#pan">Pan</ref> de <ref target="#mur">mur</ref> diminuant latéralement l'<ref target="#ouverture">ouverture</ref> d'une embrasure</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">102</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC il existe d'autres définitions d'alette : partie de la face d'un trumeau comprise entre la colonne ou le pilastre et l'embrasure ou encore renfoncement latérale sur un dé ou muret servant dans une balustrade-->
             </entry>
             <entry xml:id="alignement">
                <form>
                   <orth>alignement</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Se dit d'une partie d'<ref target="#élévation">élévation</ref> construite sur la même <ref target="#ligne">ligne</ref> de plan qu'une autre partie placée latéralement</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">13</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Est utilisé dans l'expression " à l'alignement de " -->
             </entry>
             <entry xml:id="amortissement">
                <form>
