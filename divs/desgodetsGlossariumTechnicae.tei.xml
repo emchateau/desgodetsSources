@@ -2419,7 +2419,12 @@
                   <orth>corps de logis</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ne parler de corps de logis que lorsque les appartements sont groupés dans un seul corps de bâtiment</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">228</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="corpsDesBalustres">
@@ -2586,7 +2591,12 @@
                   <orth>crampon</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ou agrafe : petite pièce à deux crochets recourbés ou en double queueD'aronde, qui rend solidiares deux éléments d'une même assise</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">60</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cremaillere">
@@ -2594,8 +2604,14 @@
                   <orth>cramaillère</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Tracé en dent de scie</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">238</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC la définition est ici donnée pour système en crémaillère ? -->
             </entry>
             <entry xml:id="creuses">
                <form>
@@ -2631,7 +2647,12 @@
                   <orth>croisillon</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Traverse formant une croix avec un meneau ou avec un montant</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">102-103</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="croix">
@@ -2647,7 +2668,12 @@
                   <orth>crossette</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ressaut décoratif</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">100</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="culDeFour">
@@ -2655,7 +2681,12 @@
                   <orth>cul de four</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>se dit d'une voute dont le plan est un segment de cercle (théoriquement un demiCercle) et l'intrados une concavité de révolution.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">140</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="culDeLampe">
@@ -2697,16 +2728,28 @@
                   <orth>dé</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Muret remplaçant des balustres d'une balustrade</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">85</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Ce n'est pas la définition directe. Nous l'avons recomposé -->
             </entry>
             <entry xml:id="deDuPiedestal">
                <form>
                   <orth>dé du piédestal</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Elément central d'un piédestal entre la base et la corniche.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">112</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC définition recomposée -->
             </entry>
             <entry xml:id="deFaiture">
                <form>
