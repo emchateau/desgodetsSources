@@ -398,12 +398,9 @@
                <sense>
                   <def>
                      <cit>
-                        <quote>Élément décoratif placé au sommet d'une élévation ou
-                        d'une partie d'élévation et marquant par son volume la
-                        terminaison de la ligne verticale de composition qui passe par
-                        son axe.</quote>
-                     </cit>
-                     <bibl corresp="#perouseDeMonclos1995">172</bibl>
+                        <quote>Élément décoratif placé au sommet d'une <ref target="#élévation">élévation</ref> ou d'une partie d'<ref target="#élévation">élévation</ref> et marquant par son volume la terminaison de la ligne verticale de composition qui passe par son axe.</quote>
+                        <bibl corresp="#perouseDeMonclos1995">172</bibl>
+                     </cit> 
                   </def>
                </sense>
             </entry>
@@ -476,7 +473,12 @@
                   <orth>angulaire</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Lorsque l'axe en plan d'un élément coïncide approximativement avec la bissectrice de l'<ref target="#angle">angle</ref> ou avec son prolongement, il est dit angulaire</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">15</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="animal">
@@ -492,7 +494,12 @@
                   <orth>ante</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote><ref target="#pilier">Pilier</ref> carré, engagé à la <ref target="#tete">tête</ref> du <ref target="#mur">mur</ref> latéral de certaines cellas (salle principale du <ref target="#temple">temple</ref>, fermée par des <ref target="#mur">murs</ref> aveugles) prolongés en avant des <ref target="#mur">murs</ref> de face antérieur ou postérieur. Désigne plus généralement un <ref target="#pilastre">pilastre</ref> cornier (<ref target="#pilastre">Pilastre</ref> placé sur un <ref target="#angleSaillant">angle saillant</ref> : le <ref target="#pilastre">pilastre</ref> cornier peut être assimilé à un <ref target="#pilier">pilier</ref> carré qui formerait l'<ref target="#angle">angle</ref> d'une construction et dont les deux <ref target="#face">faces</ref> seulement seraient apparentes) quelconque</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">193, 111 et p. 189</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="appareil">
@@ -500,7 +507,12 @@
                   <orth>appareil</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>maçonnerie formée d'éléments posés et non jetés: chaque élément est donc taillé pour occuper une place déterminée</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">55</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="appartement">
@@ -508,7 +520,12 @@
                   <orth>appartement</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ensemble des pièces de réception et d'habitation et éventuellement de quelques pièces de service, qui forment le logement d'une famille ou d'une personne.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">228</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="appui">
@@ -552,7 +569,12 @@
                   <orth>arc doubleau</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote> ou doubleau, arc en nervure séparant deux voûtes ou fractionnant un berceau en plusieurs tronçons correspondant habituellement aux travées</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">153</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="arcade">
@@ -621,7 +643,12 @@
                   <orth>ardoise </orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Plaque de roche schisteuse, posée à recouvrement</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">166</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="arete">
@@ -645,8 +672,14 @@
                   <orth>arrestier</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Pièce oblique formnt l'arête saillante d'un toit</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">76</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC je ne sais pas où indiquer que le mot s'écrit "arêtier" -->
             </entry>
             <entry xml:id="arriereCorps">
                <form>
@@ -666,7 +699,12 @@
                   <orth>arrière voussure</orth>
                </form>
                <sense>
-                  <def>eee</def>
+                  <def>
+                     <cit>
+                        <quote>Petite voûte dont l'intrados est une surface gauche engendrée par la translation d'une génératrice prenant appui à ses extrémités sur les deux directrices de tracé et d'ouverture différents</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">141</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="assise">
@@ -710,7 +748,12 @@
                   <orth>atticurge</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Se dit d'une baie dont les piedroits ne sont pas verticaux, mais inclinés de manière qu la baie est plus étroite en haut qu'en bas</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">100</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="attique">
@@ -920,7 +963,12 @@
                   <orth>barbe à cane</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Dans l'architecture médiévale, ouvrage extérieur, souvent circulaire, placé devant la porte, généralement auDelà du fossé, pour défendre l'entrée</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">249</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="bardeau">
@@ -1138,6 +1186,7 @@
                <sense>
                   <def />
                </sense>
+               <!-- RC Pérouse semble dire que "boudin" est synonyme de "tore" -->
             </entry>
             <entry xml:id="bouton">
                <form>
@@ -1152,7 +1201,12 @@
                   <orth>branche</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>On nomme plus particulièrement branches d'ogive des moitiés d'ogive rayonnant autour de la clef sans former des arcs complets ou des fractions d'ogive partant d'un point d'appui et tendant vers la clef sans l'atteindre.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">154</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="brique">
@@ -1191,7 +1245,12 @@
                   <orth>butée</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote> ou culée : massif de maçonnerie servant d'épaulement aux extrémités du pont et recevant les retombées extrêmes de ses voûtes ou les bouts de ses longerons</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">259</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cabane">
@@ -1217,7 +1276,12 @@
                   <orth>calotte</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Partie supérieure de la coupole.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">139</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="campanile">
@@ -1311,7 +1375,12 @@
                   <orth>carrelage </orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Pavement formé de plaques carrées, rectangulaires, hexagonales, etc., plus petites que la dalle et généralement en céramique, appelées carreaux.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">82</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cartoucheGothique">
@@ -1419,7 +1488,12 @@
                   <orth>cerce</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Courbe complexe qui ne peut être tracée au compas et qui doit être construite par "points recherchés". Patron découpé suivant cette courbe et servant pour tracer un arc ou une voûte.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">146</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cercle">
@@ -1468,12 +1542,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="chanfrin"><!-- orthographe, v PdM 182 -->
+            <entry xml:id="chanfrin"><!-- orthographe "chanfrein", v PdM 181 -->
                <form>
                   <orth>chanfrin</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Moulure plate, oblique par rapport aux pans voisins : c'est théoriquement le plat obtenu en abattant une arête</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">181</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chanfriner">
@@ -1489,7 +1568,12 @@
                   <orth>chapelle</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Pièce ou petit vaisseau contenant ou ayant contenu un autel et formant annexe d'une église ou d'un édifice public.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">195</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chapelleOctogone">
@@ -1518,7 +1602,12 @@
                   <orth>chapiteau angulaire</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Se dit d'une chapiteau ionique qui, placé à un angle saillant, présente deux fces contiguës à volutes et deux à balustre, une corne à deux volutes marquant l'angle.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">118</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chapiteauCompose">
@@ -1526,15 +1615,26 @@
                   <orth>chapiteau composé</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Chapiteau de l'ordre composite, composé d'une corbeille portant les deux rangs inférieurs feuillagés du chapiteau corinthien, de l'échine ornée d'oves, des volutes et de l'abaque du chapiteau ionique à cornes.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">119</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Il s'agit de la définition du chapiteau composite et non composé -->
             </entry>
             <entry xml:id="chapiteauCorinthien">
                <form>
                   <orth>chapiteau corinthien</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Chapiteau de l'ordre corinthien composé d'une corbeille feuillagée et d'un abaque ou d'n tailloir à cornes : sa corbeille est ornée de deux rangs de grandes feuilles et d'un rang supérieur de caulicoles et de crosses. entre les crosses monte une tige qui porte une fleur sur le milieu de l'abaque. Le décor feuillagé du chapiteau corinthien est généralement formé de feuilles d'acanthe, plus rarement de feuilles d'eau, de feuilles de laurier, de palmes.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">118</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chapiteauDeColonne">
@@ -1574,7 +1674,12 @@
                   <orth>chapiteau ionique</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Chapiteau de l'ordre ionique formé d'une échine, de volutes, d'un abaque ou tailloir, accessoirement d'un gorgerin.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">117</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chapiteauRenverse">
@@ -1653,7 +1758,12 @@
                   <orth>chevet</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Extrémité extérieure de l'église du côté du maître-autel. En d'autres termes, c'est la partie du choeur vue par un observateur placé dans l'axe longitudinal de l'église.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">202</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="chevetre">
@@ -1661,7 +1771,12 @@
                   <orth>chevêtre</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Linçoir horizontal assemblé entre deux solives dites solives d'enchêtrure ou entre deux murs en équerre, recevant les bouts des solives raccourcies dites solives boiteuses pour ménager une trémie.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">76-77</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cheville">
@@ -1701,7 +1816,12 @@
                   <orth>chœur</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Le choeur liturgique est la partie de l'église réservée aux clercs, comprenant généralement le sanctuaire : il est délimité par une clôture ou simplement fermé du côté de la nef par un jubé ou une table de communion.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">198</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cimaise">
@@ -1722,7 +1842,12 @@
                   <orth>cintre</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ferme provisoire soutenant les voussoirs pendant la constructiond'un arc ou d'une voûte</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">146</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="circonference">
@@ -1738,7 +1863,12 @@
                   <orth>circonvallation</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Ligne defortification entourant les positions des assiègeants, établie par ceux-ci pour tenir tête aux années de secours.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">253</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="circonvolution">
@@ -1809,7 +1939,12 @@
                   <orth>cloison</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Mur mince en panDeBois, en brique, etc., formant une division intérieure.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">83</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cloitre">
@@ -1817,7 +1952,12 @@
                   <orth>cloître</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Galerie ouverte délimitant une cour centrale ou un préau. Le cloître est généralement carré.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">209</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="clou">
@@ -1947,7 +2087,12 @@
                   <orth>colomne torse</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Colonne dont le fût est contourné en hélice</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">115</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="colonneToscane">
@@ -1979,8 +2124,14 @@
                   <orth>comble en croupe</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Comble dans le petit versant réunissant à leurs extrémités les longs-pans de certains toits allongés</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">159</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Pérouse ne définit que "croupe" -->
             </entry>
             <entry xml:id="commodite">
                <form>
@@ -2077,7 +2228,12 @@
                   <orth>contrecoeur</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Paroi de fond du foyer.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">169</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="contremur">
@@ -2085,7 +2241,12 @@
                   <orth>contremur</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Mur bâti parallèlement contre un autre mur, sans liaison avec celui-ci et généralement exécuté après coup.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">83</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="convexe">
@@ -2185,7 +2346,12 @@
                   <orth>corniche</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Couronnement allongé d'un entablement, d'un piédestal, d'une élévation, d'un morceau d'élévation, etc., formé de moulures en surplomb les unes ur les autres. La corniche est habituellement horizontale.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">173</bibl>
+                     </cit>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="cornicheArchitravee">
@@ -2209,8 +2375,14 @@
                   <orth>corniche rempante</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Corniche construite selon une ligne qui n'st ni horizontale, ni verticale.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">14</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Préouse ne définit que "rampant" -->
             </entry>
             <entry xml:id="cornicheRenversee">
                <form>
@@ -2225,8 +2397,14 @@
                   <orth>corps</orth>
                </form>
                <sense>
-                  <def />
+                  <def >
+                     <cit>
+                        <quote>Le corps de bâtiment est une partie d'une bâtiment présentant une certaine autonomie.</quote>
+                        <bibl> corresp="#perouseDeMonclos1995">20</bibl>
+                     </cit>
+                  </def>
                </sense>
+               <!-- RC Préouse de définit pas "corps" seul -->
             </entry>
             <entry xml:id="corpsDeLEdifice">
                <form>
